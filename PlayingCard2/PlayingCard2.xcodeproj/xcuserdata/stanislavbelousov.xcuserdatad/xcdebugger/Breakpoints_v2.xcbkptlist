@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlayingCard2/PlayingCardView.swift"
+            timestampString = "580477384.563145"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "PlayingCardView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_F8D5489C7E8F38EE03406343073C2653_func0"
+                  moduleName = "PlayingCard2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stanislavbelousov/Desktop/newXcodeproject/PlayingCard2/PlayingCard2/PlayingCardView.swift"
+                  timestampString = "580334115.2211061"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlayingCard2.PlayingCardView.(SizeRatio in _F8D5489C7E8F38EE03406343073C2653).cornerFontSizeToBoundsHeight.unsafeMutableAddressor : CoreGraphics.CGFloat"
+                  moduleName = "PlayingCard2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stanislavbelousov/Desktop/newXcodeproject/PlayingCard2/PlayingCard2/PlayingCardView.swift"
+                  timestampString = "580334115.224063"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlayingCard2/PlayingCardView.swift"
+            timestampString = "580477384.563301"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "PlayingCardView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_F8D5489C7E8F38EE03406343073C2653_func0"
+                  moduleName = "PlayingCard2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stanislavbelousov/Desktop/newXcodeproject/PlayingCard2/PlayingCard2/PlayingCardView.swift"
+                  timestampString = "580334106.678467"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PlayingCard2.PlayingCardView.(SizeRatio in _F8D5489C7E8F38EE03406343073C2653).cornerFontSizeToBoundsHeight.unsafeMutableAddressor : CoreGraphics.CGFloat"
+                  moduleName = "PlayingCard2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stanislavbelousov/Desktop/newXcodeproject/PlayingCard2/PlayingCard2/PlayingCardView.swift"
+                  timestampString = "580334106.724713"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlayingCard2/PlayingCardView.swift"
+            timestampString = "580477384.563394"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "SizeRatio"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlayingCard2/PlayingCardView.swift"
+            timestampString = "580477384.563477"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "PlayingCardView"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
